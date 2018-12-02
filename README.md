@@ -1,2 +1,2 @@
 # My_first-trial
-happy to start projects on git.r studio project.
+happy to start new projects in github.r studio project.
